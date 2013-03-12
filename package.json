@@ -1,0 +1,36 @@
+{
+  "name": "Woodpecker",
+  "version": "0.0.1",
+  "description": "Woodpecker API",
+  "author": "A Gurha",
+  "engines": {
+    "node": ">= 0.8.x < 0.9"
+  },
+  "scripts": {
+    "test": "make test",
+    "debug": "make debug",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "yaml": "latest",
+    "restify": "latest",
+    "lodash": "latest",
+    "async": "latest",
+    "mongoose": "latest",
+    "bcrypt": "latest",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-facebook": "latest",
+    "passport-twitter": "latest",
+    "passport-github": "latest",
+    "passport-google-oauth": "latest",
+    "winston": "latest",
+    "config": "latest",
+    "validator": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "latest",
+    "supertest": "latest"
+  }
+}

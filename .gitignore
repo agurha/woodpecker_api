@@ -1,0 +1,47 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.rdb
+bin
+bin-cov
+ssl
+
+coverage.html
+
+test/bin
+data
+pids
+logs
+results
+
+
+node_modules
+npm-debug.log
+
+# Editors
+*.sublime-*
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+.idea/*
+
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+
+# Windows
+Thumbs.db
+Desktop.ini

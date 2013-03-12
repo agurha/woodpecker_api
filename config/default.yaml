@@ -1,0 +1,9 @@
+node:
+  port: 2333
+
+mongo:
+  user: ""
+  pwd: ""
+  host: "localhost"
+  port: 27017
+  dbName: "woodpecker"
